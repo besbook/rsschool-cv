@@ -1,5 +1,5 @@
 # Бастрикова Марина Вадимовна
-<image src="https://sun1.userapi.com/sun1-28/s/v1/ig2/s0Z22vvbAorJlFJSpjsuoRR0a0pSkNK7H1qgwjOkBWiDYFe69TmM6Qqb1RgPGUn6HXgWtcY49c7JjBSj6PABJk5u.jpg?size=1440x2160&quality=95&type=album" width="100" alt="foto">
+<image src="https://sun1.userapi.com/sun1-28/s/v1/ig2/s0Z22vvbAorJlFJSpjsuoRR0a0pSkNK7H1qgwjOkBWiDYFe69TmM6Qqb1RgPGUn6HXgWtcY49c7JjBSj6PABJk5u.jpg?size=1440x2160&quality=95&type=album" width="250" alt="foto">
 
 +7(915)293-67-93
 
@@ -18,7 +18,7 @@ _look for: full or part-time employmen_
 ## Experience
 
 7 years in HR field.
-Last job:
+Last jobs:
 >2014 - 2020 DNS - CENTRAL REGION 
 **/human resources specialist**
 
@@ -33,6 +33,15 @@ I can study and work hard without losing quality.
 
 ### I'm sure I can handle programming
 
+## Social networks and more
+* [DISCORD](https://discordapp.com/users/774345231440543794) - предпочитаемая связь
 
+* [INSTAGRAM](https://instagram.com/bes_book)
+
+* [VK](https://vk.me/Bes_book_write)
+
+* [TELEGRAM](https://t.me/bes_book_blog)
+
+* [MY BOOKS](https://taplink.cc/bes_book)
 
 
