@@ -1,5 +1,5 @@
 # Бастрикова Марина Вадимовна
-<image src="https://sun1.userapi.com/sun1-28/s/v1/ig2/s0Z22vvbAorJlFJSpjsuoRR0a0pSkNK7H1qgwjOkBWiDYFe69TmM6Qqb1RgPGUn6HXgWtcY49c7JjBSj6PABJk5u.jpg?size=1440x2160&quality=95&type=album" width="250" alt="foto">
+![фото](https://sun1.userapi.com/sun1-28/s/v1/ig2/s0Z22vvbAorJlFJSpjsuoRR0a0pSkNK7H1qgwjOkBWiDYFe69TmM6Qqb1RgPGUn6HXgWtcY49c7JjBSj6PABJk5u.jpg?size=1440x2160&quality=95&type=album)
 
 +7(915)293-67-93
 
@@ -7,11 +7,11 @@ _look for: full or part-time employmen_
 ******
 ## Education
 >bachelor degree:
-2013 PLEKHANOV RUSSIAN UNIVERSITY OF ECONOMICS 
+2013 PLEKHANOV RUSSIAN UNIVERSITY OF ECONOMICS
 **/management**
 
 >master's degree:
-2015 PLEKHANOV RUSSIAN UNIVERSITY OF ECONOMICS 
+2015 PLEKHANOV RUSSIAN UNIVERSITY OF ECONOMICS
 **/strategic personnel management**
 
 *******
@@ -19,10 +19,10 @@ _look for: full or part-time employmen_
 
 7 years in HR field.
 Last jobs:
->2014 - 2020 DNS - CENTRAL REGION 
+>2014 - 2020 DNS - CENTRAL REGION
 **/human resources specialist**
 
->2020 - 2023 
+>2020 - 2023
 **/blogging and writing books**
 
 ******
@@ -43,5 +43,3 @@ I can study and work hard without losing quality.
 * [TELEGRAM](https://t.me/bes_book_blog)
 
 * [MY BOOKS](https://taplink.cc/bes_book)
-
-
